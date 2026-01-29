@@ -54,3 +54,17 @@ Design computation that **uses** the 48% failure pattern as computational primit
 ---
 
 *Evidence chain preserved. Prediction validated. Sovereignty demonstrated.*
+
+### Phase 2: Noise-Encoded Computation Design
+
+**Objective:** Demonstrate computation using IBM's 48% failure rate as feature
+
+**Method:**
+1. Analyze failure pattern from Phase 1 data
+2. Design circuit where collapse timing encodes solution
+3. Compare traditional vs noise-encoded performance
+4. Document quantum advantage via noise, not despite it
+
+**Expected Outcome:** Even with 48% measurement failures, noise-encoded version extracts signal where traditional approach cannot.
+
+**Status:** Designed, pending implementation
