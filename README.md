@@ -76,4 +76,4 @@ Design computation that **uses** the 48% failure pattern as computational primit
 **Status:** Design phase ready
 
 ## Support Sovereign Research
-This work is produced independently. To help maintain velocity, consider contributing via [Fuel the Sovereign Stack] fuel-the-stack-
+This work is produced independently. To help maintain velocity, consider contributing via https://github.com/nicktaylor812-png/fuel-the-stack-
