@@ -74,3 +74,6 @@ Design computation that **uses** the 48% failure pattern as computational primit
 **Design principle:** Use collapse timing as computation, not fight it  
 **File:** [`phase2/analysis.py`](phase2/analysis.py)  
 **Status:** Design phase ready
+
+## Support Sovereign Research
+This work is produced independently. To help maintain velocity, consider contributing via [Fuel the Sovereign Stack](https://github.com/nicktaylor812-png/fuel-the-stack).
